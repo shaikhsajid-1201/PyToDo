@@ -1,4 +1,4 @@
-Sure, here is a sample GitHub README file for a Python MySQL Todo list application running on localhost and connected using a Docker container.
+Python MySQL Todo list application running on localhost and connected using a Docker container.
 
 ```markdown
 # Python MySQL Todo List App
