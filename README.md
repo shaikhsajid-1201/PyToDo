@@ -17,7 +17,7 @@ This repository contains a simple Todo List application built with Python and My
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/PyToDo.git
+git clone https://github.com/shaikhsajid-1201/PyToDo.git
 cd PyToDo
 ```
 
